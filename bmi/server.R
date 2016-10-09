@@ -145,4 +145,4 @@ shinyServer(
                         hb2$addParams(dom ='Plot3')
                         return(hb2)
                 })
-})                
+})              
